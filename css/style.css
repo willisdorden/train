@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("train.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.container {
+    margin: 0 auto;
+    width: 100%;
+    color: white;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
+}
+
+#schedule {
+    background-color: blue;
+    color: white;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
+}
+
+#trainAdd {
+    background-color: blue;
+    color: white;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
+}
+
+label {
+    color: black;
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    text-shadow: 1px 1px 1px #ccc;
+    letter-spacing: 3px;
+    line-height: 1.8;
+    word-spacing: 5px;
+    margin-left: 30px;
+}
+
+#submit {
+    background-color: blue;
+    color: white;
+}
+
+#trainName {
+    margin-left: 30px;
+}
+
+#Destination {
+    margin-left: 30px;
+}
+
+#firstTrain {
+    margin-left: 30px;
+}
+
+#frequency {
+    margin-left: 30px;
+}
+
+form-group {
+    background: transparent;
+}
